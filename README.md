@@ -3,9 +3,9 @@
 Name: Akash Mahesh
 The goal of this assignment was to make a program that runs from the command line, and when given text(s) displays a list of the 100 most common three word sequences in the files.
 
-## Installation
+## Running the Program
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+This program runs on java, so make sure java is installed on the machine. This program works 
 
 ```bash
 pip install foobar
