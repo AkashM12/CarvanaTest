@@ -6,32 +6,27 @@ The goal of this assignment was to make a program that runs from the command lin
 # Running the Program
 ##Set up
 This program runs on java, so make sure java is installed on the machine. This program works with Java 8 and newer.
-You can check which version of Java you are on using the comman java -version:
+You can check which version of Java you are on using this command:
+
 ```cmd
-pip install foobar
+java -version
 ```
 
+After ensuring the correct version of Java is installed, clone this repository.
 
 ```bash
-pip install foobar
+git clone https://github.com/AkashM12/CarvanaTest
 ```
 
-## Usage
+After cloning the repository, navigate to the folder where the repo was cloned. Compile the java code then run it using the following commands:
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```cmd
+javac mostCommonSequences.java
+java mostCommonSequnnces <filePath here>
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Improvements
 
-Please make sure to update tests as appropriate.
+
+
+## Known Bugs
