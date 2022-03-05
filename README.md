@@ -26,6 +26,8 @@ javac mostCommonSequences.java
 java mostCommonSequnnces <filePath here>
 ```
 
+Alternatively, the program can also accept inputs from StdIn
+
 ## Improvements
 
 Currently, the program does not work properly when presented with unicode characters, which is functionality I would love to add given more time.
